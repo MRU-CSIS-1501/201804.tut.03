@@ -60,7 +60,7 @@ displayWhetherCorrect(1, num01, false);
 And it should display the following to the console:
 
 <pre>
-number 10 matches my expectations: true
+number 1 matches my expectations: true
 </pre>
 
 How many did you get correct? If you got any wrong, do you see what went wrong?
